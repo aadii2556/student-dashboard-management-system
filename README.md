@@ -74,7 +74,6 @@ Educational institutions often require lightweight systems to manage student inf
 ```bash
 git clone https://github.com/aadii2556/student-dashboard-management-system.git
 
-cd student-dashboard-management-system
 ```
 
 ## Run Application
