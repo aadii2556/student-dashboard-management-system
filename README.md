@@ -67,26 +67,6 @@ Educational institutions often require lightweight systems to manage student inf
 
 ---
 
-# 📂 Project Structure
-
-```bash
-student-dashboard-management-system/
-│
-├── src/
-│   └── student_dashboard.py
-│
-├── screenshots/
-│
-├── docs/
-│
-├── requirements.txt
-├── README.md
-├── LICENSE
-└── .gitignore
-```
-
----
-
 # ▶️ Installation & Usage
 
 ## Clone Repository
@@ -147,18 +127,6 @@ This project helped strengthen understanding of:
 - Student analytics dashboard
 - Logging and monitoring
 - Unit testing
-
----
-
-# 📸 Screenshots
-
-Add application screenshots here:
-
-- Login Screen
-- Student Dashboard Menu
-- Search Operation
-- Update Operation
-- Registration Workflow
 
 ---
 
