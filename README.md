@@ -27,6 +27,8 @@ This project demonstrates practical implementation of:
 - Data structure management
 - Interactive command-line applications
 
+![Project04SS1](Project04SS1.png)    ![Project04SS2](Project04SS2.png)
+
 ---
 
 # 🚀 Features
